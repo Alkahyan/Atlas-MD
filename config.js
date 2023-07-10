@@ -85,7 +85,7 @@ global.port = process.env.PORT || "8000";
 require("dotenv").config();
 let gg = process.env.MODS;
 if (!gg) {
-  gg = "201275658375";   // You can Change this number //
+  gg = "17872994417";   // You can Change this number //
 }
 
 // -------------------------------------------------------------- //
